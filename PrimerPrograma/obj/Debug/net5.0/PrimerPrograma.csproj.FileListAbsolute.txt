@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.exe
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.deps.json
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.runtimeconfig.json
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.runtimeconfig.dev.json
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.dll
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\bin\Debug\net5.0\ref\PrimerPrograma.dll
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\bin\Debug\net5.0\PrimerPrograma.pdb
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.AssemblyInfo.cs
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.dll
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\obj\Debug\net5.0\ref\PrimerPrograma.dll
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.pdb
+C:\Users\hp\Desktop\NinjasenlaDiscoPOO012021\PrimerPrograma\obj\Debug\net5.0\PrimerPrograma.genruntimeconfig.cache
