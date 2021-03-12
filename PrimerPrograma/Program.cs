@@ -10,7 +10,7 @@ namespace PrimerPrograma
             int a = 0, b = 0;
 
             // Definición del procedimiento
-            Console.WriteLine("***SUBTRACTION***");
+            Console.WriteLine("***MULTIPLICATION***");
 
             // Ingresando valor para a
             Console.WriteLine("Enter a value for a:");
@@ -20,14 +20,14 @@ namespace PrimerPrograma
             Console.WriteLine("Enter a value for b:");
             b = Int32.Parse(Console.ReadLine());
 
-            // Mostrando la resta
-            Console.WriteLine($"Subtracting {a} - {b} equals {SubtractingNumbers(a, b)} ");
+            // Mostrando la multiplicacion 
+            Console.WriteLine($"Multiplying {a} * {b} equals {MultiplyingNumbers(a, b)} ");
         }
 
-        // Función de resta
-        public static int SubtractingNumbers(int a, int b)
+        // Función de multiplicar
+        public static int MultiplyingNumbers(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
