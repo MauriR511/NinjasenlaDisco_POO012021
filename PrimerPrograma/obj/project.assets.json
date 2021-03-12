@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\rocio\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\NinjasenlaDiscoPOO012021\\PrimerPrograma\\PrimerPrograma.csproj",
+      "projectUniqueName": "C:\\Users\\rocio\\OneDrive\\Documentos\\POO\\NinjasenlaDisco_POO012021\\PrimerPrograma\\PrimerPrograma.csproj",
       "projectName": "PrimerPrograma",
-      "projectPath": "C:\\Users\\hp\\Desktop\\NinjasenlaDiscoPOO012021\\PrimerPrograma\\PrimerPrograma.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\NinjasenlaDiscoPOO012021\\PrimerPrograma\\obj\\",
+      "projectPath": "C:\\Users\\rocio\\OneDrive\\Documentos\\POO\\NinjasenlaDisco_POO012021\\PrimerPrograma\\PrimerPrograma.csproj",
+      "packagesPath": "C:\\Users\\rocio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rocio\\OneDrive\\Documentos\\POO\\NinjasenlaDisco_POO012021\\PrimerPrograma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\rocio\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
